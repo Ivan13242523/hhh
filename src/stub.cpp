@@ -1,0 +1,1 @@
+// Пока библиотека пуста. Сюда добавим Message, OwningBuffer, ChatStore.
